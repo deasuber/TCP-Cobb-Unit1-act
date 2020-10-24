@@ -1,4 +1,4 @@
-* **Instructions:**
+* **Instructions:**cd week
 
   * In a new HTML file, create the basic structure of an HTML document and include the following in it:
 
